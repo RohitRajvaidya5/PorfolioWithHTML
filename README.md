@@ -5,5 +5,5 @@ I created portfolio with only HTML . This project is only to revise HTML with le
 
 ## Preview :
 
-![Project Preview](Images/PreviewImage.png)
+![Project Preview](![image](https://user-images.githubusercontent.com/109543331/229783627-3793caa8-c708-4058-aa00-0aecc01e6fa2.png))
 
